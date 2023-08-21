@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+
+  <channel>
+    <title><![CDATA[Art of the week]]></title>
+    <link>https://wrtulip.github.io/WrTulip/ArtofTheWeek.html</link>
+    <description><![CDATA[look at the Art of the week!]]></description>
+    <item>
+      <title><![CDATA[We Moved]]></title>
+      <link>https://wrtulip.github.io/ArtofTheWeek.html</link>
+      <enclosure url="https://wrtulip.github.io/Images/logo.png" length="" type="image/png"/>
+      <description><![CDATA[We Moved! please move your RSS feed to https://wrtulip.github.io/ArtofTheWeek.xml]]></description>
+      <pubDate>Mon, 21 Aug 2023</pubDate>
+    </item>
+  </channel>
+</rss> 
