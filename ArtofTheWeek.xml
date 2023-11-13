@@ -2,15 +2,15 @@
 <rss version="2.0">
 
   <channel>
-    <title><![CDATA[Art of the week]]></title>
+    <title><![CDATA[Art of the week (discontinued verison)]]></title>
     <link>https://wrtulip.github.io/WrTulip/ArtofTheWeek.html</link>
     <description><![CDATA[look at the Art of the week!]]></description>
     <item>
-      <title><![CDATA[11/11/2023]]></title>
-      <link>https://twitter.com/BeastGodDK/status/1722795982931317060</link>
-      <enclosure url="https://pbs.twimg.com/media/F-iZluyWAAAzdr5?format=jpg" length="" type="image/png"/>
-      <description><![CDATA[by @BeastGodDK | go to the website to see the caption and follow the artist!]]></description>
-      <pubDate>Sat, 11 Nov 2023</pubDate>
+      <title><![CDATA[We Moved]]></title>
+      <link>https://wrtulip.neocities.org/ArtofTheWeek.xml</link>
+      <enclosure url="https://wrtulip.github.io/Images/RSSImageerror.png" length="" type="image/png"/>
+      <description><![CDATA[We Moved!]]></description>
+      <pubDate>11/13/2023</pubDate>
     </item>
   </channel>
 </rss> 
